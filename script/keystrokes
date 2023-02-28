@@ -1,3 +1,2 @@
---BROUGHT TO YOU BY RSCRIPTS.NET!--
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0primeSkidsALot/vape-plus-plus/main/script/test", true))()
 loadstring(game:HttpGet("https://system-exodus.com/scripts/misc-releases/Keystrokes.lua",true))()
